@@ -1,4 +1,4 @@
-# THE NOOB IN PYTHON 2👽
+# THE NOOB IN PYTHON 👽
 ## DIAGRAMAS DE FLUJO Y PSEUDOCÓDIGO 
 + El siguiente diagrama de flujo es para obtener los números primos hasta un número entero llamado "n":
 ```mermaid
